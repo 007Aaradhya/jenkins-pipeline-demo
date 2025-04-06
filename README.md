@@ -1,4 +1,3 @@
-```markdown
 # 🚀 Jenkins Declarative Pipeline with SCM
 
 This project demonstrates the implementation of a **Jenkins Declarative Pipeline** triggered using **Source Code Management (SCM)**. The pipeline is configured to clone a GitHub repository using **SSH authentication**, and performs dummy stages like build, test, and deploy.
